@@ -1,0 +1,8 @@
+{
+  "name": "OnderAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eeac2129"
+}
